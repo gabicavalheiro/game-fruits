@@ -29,6 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Fruits Game é um projeto de jogo para montagem de salada de fruta a partir de imagens de frutas selecionadas aleatoriamente.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://gabicavalheiro.github.io/game-fruits/)
 
 
